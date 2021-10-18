@@ -1,1 +1,1 @@
-# Heart-Disease-Detction-Project
+# Heart-Disease-Detection-Project
